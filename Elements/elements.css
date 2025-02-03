@@ -6,7 +6,7 @@ body {
     height: 100vh; /* Full height of the screen */
     padding: 30px;
     overflow-x: hidden;
-    background-image: url(../BgImage.png);
+    background-image: url(.../BgImage.png);
 }
 
 /* Center the entire container */
