@@ -12,7 +12,7 @@ body {
     justify-content: center;
     padding: 30px;
     overflow-x: scroll;
-    background-image: url(/BgImage.png);
+    background-image: url(BgImage.png);
 }
 
 .headingOne {
