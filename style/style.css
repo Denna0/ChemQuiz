@@ -11,8 +11,8 @@ body {
     align-items: center;
     justify-content: center;
     padding: 30px;
-    overflow-x: hidden;
-    background-image: url(Untitled\ design.png);
+    overflow-x: scroll;
+    background-image: url(/BgImage/Untitled\ design.png);
 }
 
 .headingOne {
