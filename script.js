@@ -1,4 +1,4 @@
-function ElTable() {
+function El_table() {
     window.location.href = "/index.html";
 }
 function Hydrogen() {
